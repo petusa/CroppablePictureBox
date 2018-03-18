@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CroppableImageBox.Properties
+namespace CroppablePictureBox.Properties
 {
 
 
